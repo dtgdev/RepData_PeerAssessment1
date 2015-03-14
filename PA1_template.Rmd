@@ -2,8 +2,8 @@
 title: "Assignment1"
 author: "Dawit Gebremichael"
 date: "February 13, 2015"
-#output: html_document
-output: md_document
+output: html_document
+#output: md_document
 
 ---
 
